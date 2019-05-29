@@ -1,5 +1,5 @@
-# PureCSS - Shazam logo
-Responsive Shazam logo with ripple effect using HTML and CSS
+# PureCSS - Shazam Listening Song
+Responsive Shazam Listening Song using HTML and CSS
 
 [Visit Shazam website](https://www.shazam.com)
 
